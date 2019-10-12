@@ -16,7 +16,7 @@ To install dependencies:
 
 ## Environment Variables
 
-    $ touch .env
+    touch .env
 
 Then you can set values:
 
