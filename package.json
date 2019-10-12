@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/8r34d/exterminated-sponsors#readme",
   "dependencies": {
+    "dotenv": "^8.1.0",
     "eslint": "^6.5.1",
     "express": "^4.17.1"
   },
